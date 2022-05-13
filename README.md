@@ -52,9 +52,11 @@
 - What are some other possible tables and/or graphs that we could create?
 
 •	Tables 
-  The report only specifies the possible outcomes based on goals. It might be more beneficial to display these different outcomes based on the actual amounts pledged to date, which is a more realistic view of how much has been raised. 
+ 
+ The report only specifies the possible outcomes based on goals. It might be more beneficial to display these different outcomes based on the actual amounts pledged to date, which is a more realistic view of how much has been raised. 
   
 •	Graphs 
-  Bar graphs to show comparing data, like the functionality of the line graph
+
+Bar graphs to show comparing data, like the functionality of the line graph
 
 
