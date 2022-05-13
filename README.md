@@ -21,13 +21,13 @@
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/104689119/168200462-07759457-d85f-4755-a4db-712e6a45a54c.png">
 
-##Analysis of Outcomes Based on Goals
+## Analysis of Outcomes Based on Goals
 
   Based on the number of live outcomes, the data was filtered to reflect the goals under the plays subcategory. The total number of successful, failed and cancelled outcomes are calculated, which are then converted into percentages. 
   
   <img width="468" alt="image" src="https://user-images.githubusercontent.com/104689119/168200502-6fba198f-485e-48e7-a7dd-2a2cda5f1e03.png">
 
-##Challenges and Difficulties Encountered
+## Challenges and Difficulties Encountered
 
   Based on the formula, the correct information based on each cell needed to reflect the correct data. The problem was solved by ensuring that the formula captured the right information.
   
