@@ -1,6 +1,6 @@
 # kickstarter-analysis
 
-##Overview of Project
+## Overview of Project
 
 1. Import excel data into a table and chart for an analysis.
 2. Filter worksheet in descending order.
@@ -8,13 +8,13 @@
 4. Create pivot table and line chart for theatre outcomes. 
 5. Create a table and line chart to display outcomes based on goals. 
 
-##Purpose
+## Purpose
 
   The purpose of this report is to examine the Kickstarter data and determine the theatre outcomes by launch date, as well as the outcomes based on goals. This will aid in decision making in terms of which theatre launch dates and goals for the plays will generate the best outcomes.
 
-#Analysis and Challenges
+# Analysis and Challenges
 
-##Analysis of Outcomes Based on Launch Date
+## Analysis of Outcomes Based on Launch Date
 
   The data was filtered by the theatre category, showing the number of live monthly outcomes. Data is separated, depending on status (canceled, failed, and successful)
 
@@ -33,7 +33,7 @@
   
   The range was manually entered in the COUNTIF formula to properly account for information captured within each data range set. This problem was solved by making sure that the COUNTIFS functions within each cell, particularly those with minimum and maximum ranges, were written accurately.
 	
-##Results
+## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
